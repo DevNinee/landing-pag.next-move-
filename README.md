@@ -5,7 +5,7 @@ Interface de autenticação com animações suaves e transição entre **Login**
 ##  Demonstração
 
 Visualize o projeto online aqui:  
-🔗 [CodePen - Login UI Panel](https://codepen.io/_devvoyager/pen/wBvqQye)
+ [CodePen - Login UI Panel](https://codepen.io/_devvoyager/pen/wBvqQye)
 
 
 
